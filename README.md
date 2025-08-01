@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Liberty Emedo</h1>
+<h1 align="center">🌍 Hello Earth</h1>
 
 <p align="right">
   <a href="https://git.io/typing-svg">
