@@ -58,7 +58,19 @@ DevOps, Linux, or Cloud projects
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=libertyemedo&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=libertyemedo&show_icons=true&theme=radical&v=1&cache_seconds=21600" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=libertyemedo&layout=compact&theme=radical&v=1&cache_seconds=21600" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=libertyemedo&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
