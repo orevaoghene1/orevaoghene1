@@ -12,7 +12,7 @@
 
 📍 Based in: Lagos 🇳🇬  
 💼 Role: IT Support/SOC Analyst 
-🎯 Focus: Networking/troubleshooting/SOC 
+🎯 Focus: Networking/SOC
 - Diving deep into DevOps  
 - Mastering Linux machines  
 - Exploring AWS services ☁️  
