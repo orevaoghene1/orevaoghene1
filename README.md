@@ -61,16 +61,17 @@ DevOps, Linux, or Cloud projects
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=libertyemedo&show_icons=true&theme=radical&v=1&cache_seconds=21600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=orevaoghene1&show_icons=true&theme=radical&v=1&cache_seconds=21600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=libertyemedo&layout=compact&theme=radical&v=1&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orevaoghene1&layout=compact&theme=radical&v=1&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=libertyemedo&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=orevaoghene1&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
