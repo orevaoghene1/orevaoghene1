@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=DevOps+Engineer+;+IT+Support+Specialist+;+Tech+Enthusiast+;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=SOC+Analyst+;+IT+Support+Specialist+;+Tech+Enthusiast+;" alt="Typing SVG">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 📍 Based in: Lagos 🇳🇬  
-💼 Role: IT Support/SOC  
+💼 Role: IT Support/SOC Analyst 
 🎯 Focus: Networking/troubleshooting/SOC 
 - Diving deep into DevOps  
 - Mastering Linux machines  
@@ -47,7 +47,7 @@ DevOps, Linux, or Cloud projects
 
 ### ⚡ Fun Facts
 
-- I enjoy scripting while listening to J cole 🎧  
+- I enjoy scripting while listening to Music 🎧  
 - I can troubleshoot a network issue before my coffee’s ready ☕  
 - I believe DevOps + Cybersecurity is 🔥  
 - I love automating repetitive tasks just for fun 🛠️  
