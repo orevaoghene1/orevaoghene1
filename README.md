@@ -11,7 +11,7 @@
 </p>
 
 📍 Based in: Lagos 🇳🇬  
-💼 Role: IT Support Officer at R-Jolad Hospital  
+💼 Role: IT Support/SOC  
 🎯 Focus:  
 - Diving deep into DevOps  
 - Mastering Linux machines  
@@ -47,7 +47,7 @@ DevOps, Linux, or Cloud projects
 
 ### ⚡ Fun Facts
 
-- I enjoy scripting while listening to Afrobeat 🎧  
+- I enjoy scripting while listening to J cole 🎧  
 - I can troubleshoot a network issue before my coffee’s ready ☕  
 - I believe DevOps + Cybersecurity is 🔥  
 - I love automating repetitive tasks just for fun 🛠️  
