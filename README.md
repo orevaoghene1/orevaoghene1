@@ -12,7 +12,7 @@
 
 📍 Based in: Lagos 🇳🇬  
 💼 Role: IT Support/SOC  
-🎯 Focus:  
+🎯 Focus: Networking/troubleshooting/SOC 
 - Diving deep into DevOps  
 - Mastering Linux machines  
 - Exploring AWS services ☁️  
